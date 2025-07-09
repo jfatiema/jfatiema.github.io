@@ -15,3 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "bundle", "~> 0.0.1"
+gem "info", "~> 0.0.3"
+gem "minimal-mistakes-jekyll", "~> 4.27"
